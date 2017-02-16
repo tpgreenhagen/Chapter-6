@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=square
+comment0.target=Magic(int[][])
+comment0.text=\r\n\ Default\ constructor\ for\ objects\ of\ class\ Magic\r\n\ Takes\ a\ 2d\ list\r\n\ Gets\ the\ sum\ of\ the\ first\ row\ that\ will\ only\ be\ returned\r\n\ if\ the\ square\ is\ magic\r\n
+comment1.params=array
+comment1.target=void\ setMagicSquare(int[][])
+comment1.text=\r\n\ setMagicSquare\r\n\ Takes\ a\ 2D\ array\r\n\ Sets\ the\ square\ to\ the\ new\ square\r\n
+comment2.params=
+comment2.target=boolean\ isMagic()
+comment2.text=\r\n\ isMagic()\r\n\ Tests\ to\ see\ if\ the\ square\ is\ magic\r\n\ Returns\ a\ boolean\ response\r\n
+comment3.params=
+comment3.target=int\ getMagicNum()
+comment3.text=\r\n\ getMagicNumber()\r\n\ Returns\ the\ magic\ number\r\n
+comment4.params=
+comment4.target=boolean\ test_h()
+comment4.text=\r\n\ test_h()\r\n\ Tests\ the\ rows\ to\ see\ if\ they\ add\ up\ to\ the\ magic\ number\r\n\ Returns\ true\ or\ false\r\n
+comment5.params=
+comment5.target=boolean\ test_v()
+comment5.text=\r\n\ test_v()\r\n\ Tests\ the\ columns\ to\ see\ if\ they\ add\ up\ to\ the\ magic\ number\r\n\ Returns\ true\ or\ false\r\n
+comment6.params=
+comment6.target=boolean\ test_d()
+comment6.text=\r\n\ test_d()\r\n\ Tests\ the\ diagonals\ to\ see\ if\ they\ add\ up\ to\ the\ magic\ number\r\n\ Returns\ true\ or\ false\r\n
+numComments=7

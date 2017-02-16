@@ -1,0 +1,53 @@
+Class documentation
+<---- javadoc command: ---->
+C:\Program Files\Java\jdk1.8.0_101\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-private
+-tag
+pre:a:Precondition:
+-tag
+post:a:Postcondition:
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+1.8
+-classpath
+C:\Program Files (x86)\BlueJ\lib\bluejcore.jar;C:\Program Files (x86)\BlueJ\lib\junit-4.8.2.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-core.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-device.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-gpio-extension.jar;C:\Program Files (x86)\BlueJ\lib\userlib\pi4j-service.jar;C:\Users\tpgreenhagen\Desktop\GitHub\Chapter 6
+-d
+C:\Users\tpgreenhagen\Desktop\GitHub\Chapter 6\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-docletpath
+C:\Program Files (x86)\BlueJ\lib\bjdoclet.jar
+-doclet
+bluej.doclet.doclets.formats.html.HtmlDoclet
+C:\Users\tpgreenhagen\Desktop\GitHub\Chapter 6\mathy.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\tpgreenhagen\Desktop\GitHub\Chapter 6\mathy.java...
+Constructing Javadoc information...
+Standard Doclet version 1.8.0_101
+Building tree for all the packages and classes...
+Generating C:\Users\tpgreenhagen\Desktop\GitHub\Chapter 6\doc\mathy.html...
+C:\Users\tpgreenhagen\Desktop\GitHub\Chapter 6\mathy.java:32: warning - @param argument "int" is not a parameter name.
+C:\Users\tpgreenhagen\Desktop\GitHub\Chapter 6\mathy.java:95: warning - @param argument "2" is not a parameter name.
+C:\Users\tpgreenhagen\Desktop\GitHub\Chapter 6\mathy.java:193: warning - @param argument "int" is not a parameter name.
+C:\Users\tpgreenhagen\Desktop\GitHub\Chapter 6\mathy.java:59: warning - @param argument "int[]" is not a parameter name.
+C:\Users\tpgreenhagen\Desktop\GitHub\Chapter 6\mathy.java:119: warning - @param argument "none" is not a parameter name.
+Generating C:\Users\tpgreenhagen\Desktop\GitHub\Chapter 6\doc\package-frame.html...
+Generating C:\Users\tpgreenhagen\Desktop\GitHub\Chapter 6\doc\package-summary.html...
+Generating C:\Users\tpgreenhagen\Desktop\GitHub\Chapter 6\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating C:\Users\tpgreenhagen\Desktop\GitHub\Chapter 6\doc\allclasses-frame.html...
+Generating C:\Users\tpgreenhagen\Desktop\GitHub\Chapter 6\doc\allclasses-noframe.html...
+Generating C:\Users\tpgreenhagen\Desktop\GitHub\Chapter 6\doc\index.html...
+Generating C:\Users\tpgreenhagen\Desktop\GitHub\Chapter 6\doc\stylesheet.css...
+Note: Custom tags that could override future standard tags:  @pre, @post. To avoid potential overrides, use at least one period character (.) in custom tag names.
+Note: Custom tags that were not seen:  @pre, @post
+5 warnings
