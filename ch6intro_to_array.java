@@ -58,6 +58,7 @@ public static void main (String[] args)
         ArrayList <CD> List = new ArrayList<>();
         List.add(new CD("Buffalo","Da Bills",12,12));
         System.out.println(List);
+        int [][] list = new int[10][10];
 //         mathy math = new mathy();
 //         int x = 50;
 //         int[] num = new int[8];
